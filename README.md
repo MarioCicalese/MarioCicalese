@@ -1,6 +1,6 @@
 ### About me
 - 👋 Hi, I’m Mario Cicalese.
-- 🌎 I'm 21 years old, and I am from Italy,
+- 🌎 I'm 22 years old, and I am from Italy,
 - 📚 Currently attending Computer Science Bachelor Degree at Università di Salerno, Italy 🇮🇹.
 - 👀 I’m interested in Artificial Intelligence, Software Engineering.
 - 🌱 I’m currently learning Theory Of Computation, Security Fundamentals and Operations Research.
