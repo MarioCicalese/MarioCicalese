@@ -1,11 +1,18 @@
-### About me
+## 💡 About me
 - 👋 Hi, I’m Mario Cicalese.
 - 🌎 I'm 22 years old, and I am from Italy,
-- 📚 Currently attending Computer Science Bachelor Degree at Università di Salerno, Italy 🇮🇹.
-- 👀 I’m interested in Artificial Intelligence, Software Engineering.
-- 🌱 I’m currently learning Theory Of Computation, Security Fundamentals and Operations Research.
-
-### Languages and Frameworks:
+- 🎓 Bachelor Degree In Computer Science at the **University of Salerno**.
+- 📚 Currently pursuing an MSc in **Data Science & Machine Learning** at the **University of Salerno**.
+- 👀 I’m interested in  artificial Intelligence and Data-related fields.
+  
+## 💼 Key Competencies:
+- 🤖 Machine Learning.
+- 🖼️ Deep Learning in Computer Vision (Image Classification, Segmentation & Detection).
+- 📚 NLP (Word Embedding, Bert & Transformer)
+- 📊 Data Visualization, Dashboarding & Analysis.
+- 🛠️ Data Cleaning & Preprocessing.
+- 💾 Relational and non-relational database technologies, such as SQL and MongoDB.
+## Languages and Frameworks:
 <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
       alt="c"
